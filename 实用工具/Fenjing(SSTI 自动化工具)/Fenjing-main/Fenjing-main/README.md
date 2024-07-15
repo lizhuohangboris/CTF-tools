@@ -12,6 +12,8 @@
 
 焚靖是一个针对CTF比赛中Jinja SSTI绕过WAF的全自动脚本，可以自动攻击给定的网站或接口，省去手动测试接口，fuzz题目WAF的时间。
 
+python -m fenjing crack --method GET --inputs name --url 'http://10.1.110.2:20000/'
+
 ## 演示
 
 [![asciicast](assets/demo.svg)](https://asciinema.org/a/rewsTVvAPqH59GWNtn7QmZ6RU)
