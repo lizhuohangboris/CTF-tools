@@ -1,0 +1,159 @@
+[09:15:12] [INFO] [Application:main] check windows console finish
+[09:15:12] [INFO] [Client:run] run jar-analyzer gui
+[09:15:12] [INFO] [Application:main] setup look and feel success
+[09:15:12] [INFO] [LoggingStream:println] set y4-log io-streams
+[09:15:12] [INFO] [LoggingStream:println] set y4-log err-streams
+[09:15:13] [INFO] [MainForm:<init>] init fake instance
+[09:15:14] [INFO] [MainForm:<init>] init main form
+[09:15:15] [INFO] [SqlSessionFactoryUtil:<clinit>] init mybatis factory
+[09:15:15] [INFO] [PrintSqlInterceptor:<clinit>] init sql interceptor
+[09:15:15] [INFO] [SqlSessionFactoryUtil:<clinit>] init mybatis factory finish
+[09:15:15] [INFO] [CoreEngine:<init>] init core engine finish
+[09:15:15] [INFO] [MainForm:<init>] init main form success
+[09:15:15] [INFO] [DropHelper:setDrop] set drop target success
+[09:15:36] [WARN] [DirUtil:removeDir] remove dir jar-analyzer-temp\console.dll not success
+[09:15:36] [WARN] [DirUtil:removeDir] remove dir jar-analyzer-temp not success
+[09:15:36] [WARN] [DirUtil:removeDir] remove dir jar-analyzer-temp not success
+[09:15:36] [INFO] [CoreRunner:run] input is a jar file
+[09:15:36] [INFO] [DatabaseManager:<clinit>] init database
+[09:15:37] [INFO] [DatabaseManager:<clinit>] create database finish
+[09:15:37] [INFO] [CoreUtil:getAllClassesFromJars] collect all class
+[09:15:37] [INFO] [CoreRunner:run] get all class
+[09:15:37] [INFO] [DatabaseManager:saveClassFiles] total class file: 71
+[09:15:37] [INFO] [DatabaseManager:saveClassFiles] save class file finish
+[09:15:37] [INFO] [DiscoveryRunner:start] start class analyze
+[09:15:37] [INFO] [DatabaseManager:saveClassInfo] total class: 71
+[09:15:37] [INFO] [DatabaseManager:saveClassInfo] save class finish
+[09:15:37] [INFO] [DatabaseManager:saveClassInfo] save member success
+[09:15:37] [INFO] [DatabaseManager:saveClassInfo] save class anno success
+[09:15:37] [INFO] [DatabaseManager:saveClassInfo] save interface success
+[09:15:37] [INFO] [DatabaseManager:saveMethods] total method: 621
+[09:15:37] [INFO] [DatabaseManager:saveMethods] save method success
+[09:15:37] [INFO] [DatabaseManager:saveMethods] save method anno success
+[09:15:37] [INFO] [CoreRunner:run] analyze class finish
+[09:15:37] [INFO] [MethodCallRunner:start] start analyze method calls
+[09:15:37] [INFO] [CoreRunner:run] build inheritance
+[09:15:37] [INFO] [DatabaseManager:saveImpls] save method impl success
+[09:15:37] [INFO] [DatabaseManager:saveMethodCalls] save method call success
+[09:15:37] [INFO] [CoreRunner:run] build extra inheritance
+[09:15:37] [INFO] [DatabaseManager:saveStrMap] save all string success
+[09:15:37] [ERROR] [SpringService:start] error: Index: 0, Size: 0
+[09:15:37] [INFO] [DatabaseManager:saveSpring] save all spring data success
+[09:15:37] [INFO] [CoreRunner:run] build database finish
+[09:15:37] [INFO] [CoreEngine:<init>] init core engine finish
+[09:15:37] [INFO] [CoreRunner:run] auto save finish
+[09:16:08] [INFO] [LoggingStream:println] com/fury/Starter
+[09:16:08] [INFO] [LoggingStream:println] done
+[09:16:08] [INFO] [DecompileEngine:decompile] save cache
+[09:16:08] [INFO] [LRUCache:put] LRU PUT - capacity : 30 - size : 1
+[09:16:24] [INFO] [LRUCache:get] LRU GET - capacity : 30 - size : 1
+[09:16:24] [INFO] [DecompileEngine:decompile] use cache
+[09:16:26] [INFO] [LoggingStream:println] org/springframework/boot/loader/archive/Archive
+[09:16:26] [INFO] [LoggingStream:println] done
+[09:16:26] [INFO] [DecompileEngine:decompile] save cache
+[09:16:26] [INFO] [LRUCache:put] LRU PUT - capacity : 30 - size : 2
+[11:33:30] [INFO] [Application:main] check windows console finish
+[11:33:30] [INFO] [Client:run] run jar-analyzer gui
+[11:33:30] [INFO] [Application:main] setup look and feel success
+[11:33:30] [INFO] [LoggingStream:println] set y4-log io-streams
+[11:33:30] [INFO] [LoggingStream:println] set y4-log err-streams
+[11:33:30] [INFO] [MainForm:<init>] init fake instance
+[11:33:30] [INFO] [MainForm:<init>] init main form
+[11:33:30] [INFO] [SqlSessionFactoryUtil:<clinit>] init mybatis factory
+[11:33:30] [INFO] [PrintSqlInterceptor:<clinit>] init sql interceptor
+[11:33:31] [INFO] [SqlSessionFactoryUtil:<clinit>] init mybatis factory finish
+[11:33:31] [INFO] [CoreEngine:<init>] init core engine finish
+[11:33:31] [INFO] [MainForm:<init>] init main form success
+[11:33:31] [INFO] [DropHelper:setDrop] set drop target success
+[11:33:39] [WARN] [DirUtil:removeDir] remove dir jar-analyzer-temp\console.dll not success
+[11:33:39] [WARN] [DirUtil:removeDir] remove dir jar-analyzer-temp not success
+[11:33:39] [WARN] [DirUtil:removeDir] remove dir jar-analyzer-temp not success
+[11:33:39] [INFO] [CoreRunner:run] input is a jar file
+[11:33:39] [INFO] [DatabaseManager:<clinit>] init database
+[11:33:39] [INFO] [DatabaseManager:<clinit>] create database finish
+[11:33:39] [INFO] [CoreUtil:getAllClassesFromJars] collect all class
+[11:33:39] [INFO] [CoreRunner:run] get all class
+[11:33:39] [INFO] [DatabaseManager:saveClassFiles] total class file: 71
+[11:33:39] [INFO] [DatabaseManager:saveClassFiles] save class file finish
+[11:33:39] [INFO] [DiscoveryRunner:start] start class analyze
+[11:33:39] [INFO] [DatabaseManager:saveClassInfo] total class: 71
+[11:33:39] [INFO] [DatabaseManager:saveClassInfo] save class finish
+[11:33:39] [INFO] [DatabaseManager:saveClassInfo] save member success
+[11:33:39] [INFO] [DatabaseManager:saveClassInfo] save class anno success
+[11:33:39] [INFO] [DatabaseManager:saveClassInfo] save interface success
+[11:33:39] [INFO] [DatabaseManager:saveMethods] total method: 621
+[11:33:39] [INFO] [DatabaseManager:saveMethods] save method success
+[11:33:39] [INFO] [DatabaseManager:saveMethods] save method anno success
+[11:33:39] [INFO] [CoreRunner:run] analyze class finish
+[11:33:39] [INFO] [MethodCallRunner:start] start analyze method calls
+[11:33:39] [INFO] [CoreRunner:run] build inheritance
+[11:33:39] [INFO] [DatabaseManager:saveImpls] save method impl success
+[11:33:40] [INFO] [DatabaseManager:saveMethodCalls] save method call success
+[11:33:40] [INFO] [CoreRunner:run] build extra inheritance
+[11:33:40] [INFO] [DatabaseManager:saveStrMap] save all string success
+[11:33:40] [ERROR] [SpringService:start] error: Index: 0, Size: 0
+[11:33:40] [INFO] [DatabaseManager:saveSpring] save all spring data success
+[11:33:40] [INFO] [CoreRunner:run] build database finish
+[11:33:40] [INFO] [CoreEngine:<init>] init core engine finish
+[11:33:40] [INFO] [CoreRunner:run] auto save finish
+[11:33:47] [INFO] [LoggingStream:println] com/fury/controller/ApiController
+[11:33:47] [INFO] [LoggingStream:println] done
+[11:33:47] [INFO] [DecompileEngine:decompile] save cache
+[11:33:47] [INFO] [LRUCache:put] LRU PUT - capacity : 30 - size : 1
+[11:33:48] [INFO] [LoggingStream:println] com/fury/Starter
+[11:33:48] [INFO] [LoggingStream:println] done
+[11:33:48] [INFO] [DecompileEngine:decompile] save cache
+[11:33:48] [INFO] [LRUCache:put] LRU PUT - capacity : 30 - size : 2
+[11:33:55] [INFO] [LoggingStream:println] org/springframework/boot/loader/archive/Archive
+[11:33:55] [INFO] [LoggingStream:println] done
+[11:33:55] [INFO] [DecompileEngine:decompile] save cache
+[11:33:55] [INFO] [LRUCache:put] LRU PUT - capacity : 30 - size : 3
+[11:33:58] [INFO] [LoggingStream:println] org/springframework/boot/loader/archive/ExplodedArchive
+[11:33:58] [INFO] [LoggingStream:println] done
+[11:33:58] [INFO] [DecompileEngine:decompile] save cache
+[11:33:58] [INFO] [LRUCache:put] LRU PUT - capacity : 30 - size : 4
+[11:33:59] [INFO] [LoggingStream:println] org/springframework/boot/loader/archive/JarFileArchive
+[11:33:59] [INFO] [LoggingStream:println] done
+[11:33:59] [INFO] [DecompileEngine:decompile] save cache
+[11:33:59] [INFO] [LRUCache:put] LRU PUT - capacity : 30 - size : 5
+[11:34:04] [INFO] [LoggingStream:println] org/springframework/boot/loader/data/RandomAccessData
+[11:34:04] [INFO] [LoggingStream:println] done
+[11:34:04] [INFO] [DecompileEngine:decompile] save cache
+[11:34:04] [INFO] [LRUCache:put] LRU PUT - capacity : 30 - size : 6
+[11:34:05] [INFO] [LoggingStream:println] org/springframework/boot/loader/data/RandomAccessDataFile
+[11:34:05] [INFO] [LoggingStream:println] done
+[11:34:05] [INFO] [DecompileEngine:decompile] save cache
+[11:34:05] [INFO] [LRUCache:put] LRU PUT - capacity : 30 - size : 7
+[11:34:18] [INFO] [LoggingStream:println] org/springframework/boot/loader/jarmode/JarModeLauncher
+[11:34:18] [INFO] [LoggingStream:println] done
+[11:34:18] [INFO] [DecompileEngine:decompile] save cache
+[11:34:18] [INFO] [LRUCache:put] LRU PUT - capacity : 30 - size : 8
+[12:32:17] [INFO] [Application:main] check windows console finish
+[12:32:17] [INFO] [Client:run] run jar-analyzer gui
+[12:32:17] [INFO] [Application:main] setup look and feel success
+[12:32:28] [INFO] [Application:main] check windows console finish
+[12:32:28] [INFO] [Client:run] run jar-analyzer gui
+[12:32:28] [INFO] [Application:main] setup look and feel success
+[12:32:28] [INFO] [LoggingStream:println] set y4-log io-streams
+[12:32:28] [INFO] [LoggingStream:println] set y4-log err-streams
+[12:32:28] [INFO] [MainForm:<init>] init fake instance
+[12:32:28] [INFO] [MainForm:<init>] init main form
+[12:32:28] [INFO] [SqlSessionFactoryUtil:<clinit>] init mybatis factory
+[12:32:29] [INFO] [PrintSqlInterceptor:<clinit>] init sql interceptor
+[12:32:29] [INFO] [SqlSessionFactoryUtil:<clinit>] init mybatis factory finish
+[12:32:29] [INFO] [CoreEngine:<init>] init core engine finish
+[12:32:29] [INFO] [MainForm:<init>] init main form success
+[12:32:29] [INFO] [DropHelper:setDrop] set drop target success
+[12:33:09] [INFO] [Application:main] check windows console finish
+[12:33:09] [INFO] [Client:run] run jar-analyzer gui
+[12:33:09] [INFO] [Application:main] setup look and feel success
+[12:33:09] [INFO] [LoggingStream:println] set y4-log io-streams
+[12:33:09] [INFO] [LoggingStream:println] set y4-log err-streams
+[12:33:10] [INFO] [MainForm:<init>] init fake instance
+[12:33:10] [INFO] [MainForm:<init>] init main form
+[12:33:10] [INFO] [SqlSessionFactoryUtil:<clinit>] init mybatis factory
+[12:33:10] [INFO] [PrintSqlInterceptor:<clinit>] init sql interceptor
+[12:33:10] [INFO] [SqlSessionFactoryUtil:<clinit>] init mybatis factory finish
+[12:33:10] [INFO] [CoreEngine:<init>] init core engine finish
+[12:33:10] [INFO] [MainForm:<init>] init main form success
+[12:33:10] [INFO] [DropHelper:setDrop] set drop target success

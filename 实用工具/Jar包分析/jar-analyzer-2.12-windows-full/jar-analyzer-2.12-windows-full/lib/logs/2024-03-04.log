@@ -1,0 +1,11 @@
+[19:31:25] [INFO] [Application:main] check windows console finish
+[19:32:28] [INFO] [Application:main] check windows console finish
+[19:36:58] [INFO] [Application:main] check windows console finish
+[19:36:58] [INFO] [Client:run] run jar-analyzer gui
+[19:36:58] [INFO] [Application:main] setup look and feel success
+[19:36:58] [INFO] [LoggingStream:println] set y4-log io-streams
+[19:36:58] [INFO] [LoggingStream:println] set y4-log err-streams
+[19:36:59] [INFO] [MainForm:<init>] init fake instance
+[19:36:59] [INFO] [MainForm:<init>] init main form
+[19:36:59] [INFO] [MainForm:<init>] init main form success
+[19:36:59] [INFO] [DropHelper:setDrop] set drop target success

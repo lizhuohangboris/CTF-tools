@@ -1,0 +1,55 @@
+[19:33:46] [INFO] [Application:main] check windows console finish
+[19:33:59] [INFO] [Application:main] check windows console finish
+[19:33:59] [INFO] [Client:run] run jar-analyzer gui
+[19:34:01] [INFO] [Application:main] setup look and feel success
+[19:34:01] [INFO] [LoggingStream:println] set y4-log io-streams
+[19:34:01] [INFO] [LoggingStream:println] set y4-log err-streams
+[19:34:02] [INFO] [MainForm:<init>] init fake instance
+[19:34:02] [INFO] [MainForm:<init>] init main form
+[19:34:02] [INFO] [MainForm:<init>] init main form success
+[19:34:02] [INFO] [DropHelper:setDrop] set drop target success
+[19:34:46] [WARN] [DirUtil:removeDir] remove dir jar-analyzer-temp\console.dll not success
+[19:34:46] [WARN] [DirUtil:removeDir] remove dir jar-analyzer-temp not success
+[19:34:46] [WARN] [DirUtil:removeDir] remove dir jar-analyzer-temp not success
+[19:34:46] [INFO] [CoreRunner:run] input is a jar file
+[19:34:46] [INFO] [DatabaseManager:<clinit>] init database
+[19:34:46] [INFO] [SqlSessionFactoryUtil:<clinit>] init mybatis factory
+[19:34:47] [INFO] [PrintSqlInterceptor:<clinit>] init sql interceptor
+[19:34:47] [INFO] [SqlSessionFactoryUtil:<clinit>] init mybatis factory finish
+[19:34:48] [INFO] [DatabaseManager:<clinit>] create database finish
+[19:34:48] [INFO] [CoreUtil:getAllClassesFromJars] collect all class
+[19:34:48] [INFO] [CoreRunner:run] get all class
+[19:34:48] [INFO] [DatabaseManager:saveClassFiles] total class file: 68
+[19:34:48] [INFO] [DatabaseManager:saveClassFiles] save class file finish
+[19:34:48] [INFO] [DiscoveryRunner:start] start class analyze
+[19:34:48] [INFO] [DatabaseManager:saveClassInfo] total class: 68
+[19:34:48] [INFO] [DatabaseManager:saveClassInfo] save class finish
+[19:34:48] [INFO] [DatabaseManager:saveClassInfo] save member success
+[19:34:48] [INFO] [DatabaseManager:saveClassInfo] save class anno success
+[19:34:48] [INFO] [DatabaseManager:saveClassInfo] save interface success
+[19:34:48] [INFO] [DatabaseManager:saveMethods] total method: 584
+[19:34:48] [INFO] [DatabaseManager:saveMethods] save method success
+[19:34:48] [INFO] [DatabaseManager:saveMethods] save method anno success
+[19:34:48] [INFO] [CoreRunner:run] analyze class finish
+[19:34:48] [INFO] [MethodCallRunner:start] start analyze method calls
+[19:34:48] [INFO] [CoreRunner:run] build inheritance
+[19:34:48] [INFO] [DatabaseManager:saveImpls] save method impl success
+[19:34:49] [INFO] [DatabaseManager:saveMethodCalls] save method call success
+[19:34:49] [INFO] [CoreRunner:run] build extra inheritance
+[19:34:49] [INFO] [DatabaseManager:saveStrMap] save all string success
+[19:34:49] [INFO] [DatabaseManager:saveSpring] save all spring data success
+[19:34:49] [INFO] [CoreRunner:run] build database finish
+[19:34:49] [INFO] [CoreEngine:<init>] init core engine finish
+[19:34:49] [INFO] [CoreRunner:run] auto save finish
+[19:35:05] [INFO] [LoggingStream:println] com/cwm/yamlhack/controller/IndexController
+[19:35:05] [INFO] [LoggingStream:println] done
+[19:35:05] [INFO] [DecompileEngine:decompile] save cache
+[19:35:05] [INFO] [LRUCache:put] LRU PUT - capacity : 30 - size : 1
+[19:35:06] [INFO] [LoggingStream:println] com/cwm/yamlhack/YamlhackApplication
+[19:35:06] [INFO] [LoggingStream:println] done
+[19:35:06] [INFO] [DecompileEngine:decompile] save cache
+[19:35:06] [INFO] [LRUCache:put] LRU PUT - capacity : 30 - size : 2
+[19:35:07] [INFO] [LoggingStream:println] com/cwm/yamlhack/tomcatconfig
+[19:35:07] [INFO] [LoggingStream:println] done
+[19:35:07] [INFO] [DecompileEngine:decompile] save cache
+[19:35:07] [INFO] [LRUCache:put] LRU PUT - capacity : 30 - size : 3

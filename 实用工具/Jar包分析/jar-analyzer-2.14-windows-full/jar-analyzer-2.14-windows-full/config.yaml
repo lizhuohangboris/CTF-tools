@@ -1,0 +1,11 @@
+block: true
+debug: false
+hooks:
+  - className: java/lang/ProcessBuilder
+    methodDesc: ()Ljava/lang/Process;
+    methodName: start
+    vulTYpe: RCE
+  - className: javax/naming/InitialContext
+    methodDesc: (Ljava/lang/String;)Ljava/lang/Object;
+    methodName: lookup
+    vulTYpe: JNDI
