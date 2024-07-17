@@ -30,6 +30,19 @@
   <a href="https://github.com/s0md3v/XSStrike/wiki/Compatibility-&-Dependencies">Compatibility</a> •
   <a href="https://github.com/s0md3v/XSStrike#gallery">Gallery</a>
 </p>
+```
+get请求练习测试
+
+python3 xsstrike.py -u “http://192.168.*.*/pikachu/vul/xss/xss_reflected_get.php?message=1&submit=submit”
+```
+
+```
+post请求练习测试
+
+python3 xsstrike.py -u “http://192.168.*.*/pikachu/vul/xss/xsspost/xss_reflected_post.php” --data “message=1&submit=submit” --headers “Cookie: ant[uname]=admin; ant[pw]=10470c3b4b1fed12c3baac014be15fac67c6e815; PHPSESSID=g3hjk0p8jis2uk16911edvain6”
+```
+
+
 
 XSStrike is a Cross Site Scripting detection suite equipped with four hand written parsers, an intelligent payload generator, a powerful fuzzing engine and an incredibly fast crawler.
 
