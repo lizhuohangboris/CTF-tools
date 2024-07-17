@@ -1,0 +1,38 @@
+# [[请求]]
+[request]
+
+# 代理
+proxy : 
+
+# 请求 scheme
+scheme : https
+
+# 请求超时时间（秒）
+timeout : 30
+
+# 自定义 User-Agent
+user_agent : 
+
+# [[探针]]
+[probe]
+
+# 默认探针
+default : sqli, xss
+
+# 自定义探针
+customize : xss
+
+# [[CEYE.IO]]
+[ceye]
+
+# Identifier
+id : 
+
+# API Token
+token :  
+
+# [[杂项]]
+[misc]
+
+# 测试目标运行平台 [linux|windows]
+platform : linux

